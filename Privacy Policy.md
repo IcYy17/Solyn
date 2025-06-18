@@ -48,7 +48,7 @@ Request deletion of your personal information.
 
 Withdraw consent at any time, where applicable.
 
-To exercise any of these rights, contact us at support@solyn.app. We respond to all verified requests within a reasonable timeframe.
+To exercise any of these rights, contact us at latenitellc@gmail.com. We respond to all verified requests within a reasonable timeframe.
 
 5. Children’s Privacy
 Solyn is not intended for children under the age of 13 (or the applicable minimum age in your jurisdiction). We do not knowingly collect data from children. If you believe a child has provided us with personal information, please contact us immediately so we can take appropriate action.
